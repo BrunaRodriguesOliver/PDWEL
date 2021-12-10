@@ -10,3 +10,6 @@
       </tr>
    </tbody>
  </table>
+ 
+ <h1>Projeto Final</h1>
+ <p>Desenvolvimento de um sistema de gerenciamento de funcionários, onde é possível vizualizar lista de funcionários existentes, realizar cadastro de novos, deletar e editar, utilizando arquitetura MVC. Projto desenvolvido na linguagem PHP.</p>
